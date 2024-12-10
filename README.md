@@ -1,16 +1,22 @@
-## Hi there 👋
+Heyy Lady and Gentlemen 👋
+📌 GitHub Stats And Top Languages
+Alitumer's github stats My Top Langs
 
-<!--
-**alitumer0/alitumer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 
 
-Here are some ideas to get you started:
+📚 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 
+📫 How to Reach Me
+Linkedin Badge
+https://www.linkedin.com/in/alitumer/
+⚡ Fun Fact
+I love startup culture :) 
+
+Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
+
+🔭 Start-up companies that I actively support
+
+
+
+
