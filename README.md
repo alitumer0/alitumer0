@@ -2,14 +2,11 @@ Heyy Lady and Gentlemen 👋
 📌 GitHub Stats And Top Languages
 Alitumer's github stats My Top Langs
 
-🌐 
 
-📚 
-
-🌐 
 📫 How to Reach Me
 Linkedin Badge
 https://www.linkedin.com/in/alitumer/
+
 ⚡ Fun Fact
 I love startup culture :) 
 
